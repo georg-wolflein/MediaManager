@@ -11,5 +11,6 @@ MediaManager is an application, where you can enter in your CDs and DVDs. You ca
 
 The following libraries were used in this project: 
 
-* [QrCode.Net](http://qrcodenet.codeplex.com/): an easy-to-use QR code library for .NET (used for creating QR codes)
-* [Windows API Code Pack 1.1](http://archive.msdn.microsoft.com/WindowsAPICodePack): access to Windows functions like TaskDialogs, which is not possible through .NET
+* [QrCode.Net](http://qrcodenet.codeplex.com/): an easy-to-use QR code library for the .NET framework
+* [Windows API Code Pack 1.1](http://archive.msdn.microsoft.com/WindowsAPICodePack): access to Windows functions like TaskDialogs, which are not possible through the .NET framework
+* Main.dll: my own DLL for main application methods, which ensures consistent behaviour
