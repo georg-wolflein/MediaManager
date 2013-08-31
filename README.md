@@ -14,7 +14,7 @@ Please note that this application was programmed in Visual Basic and therefore o
 
 
 ### Setup
-If you want to do a full setup (install it on your computer) open [INSTALL](INSTALL) and execute [setup.exe](INSTALL/setup.exe). This will correctly install it on your machine. Alternatly, you can download "INSTALL.zip" from the latest [release](../../releases). 
+If you want to do a full setup (install it on your computer) open [INSTALL](INSTALL) and execute [setup.exe](INSTALL/setup.exe). This will correctly install it on your machine. Alternatly, you can download `MediaManager-{latest-version}.zip` from the latest [release](../../releases). 
 
 
 ### Executable Only
