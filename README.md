@@ -9,16 +9,6 @@ CD organization made easy.
 MediaManager is an application, where you can enter in your CDs and DVDs. You can print stickers with QR codes that you can attach to your CDs in order to always find them. The media database can be edited directly in the application or in Microsoft Office Excel. 
 
 
-
-## Libraries
-
-The following libraries were used in this project: 
-
-* [QrCode.Net](http://qrcodenet.codeplex.com/): an easy-to-use QR code library for the .NET framework
-* [Windows API Code Pack 1.1](http://archive.msdn.microsoft.com/WindowsAPICodePack): access to Windows functions like TaskDialogs, which are not possible through the .NET framework
-* Main.dll: my own DLL for main application methods, ensuring consistent application behaviour
-
-
 ## Installing
 Please note that this application was programmed in Visual Basic and therefore only works on the Windows operating system. 
 
@@ -36,3 +26,11 @@ If you are encountering problems during the installation, it's probably because 
 
 Another problem might be that you cannot start the application. If this is the case, make sure that the DLL [Main.dll](Main.dll) is located in the same directory as GamingBot.exe. 
 
+
+## Libraries
+
+The following libraries were used in this project: 
+
+* [QrCode.Net](http://qrcodenet.codeplex.com/): an easy-to-use QR code library for the .NET framework
+* [Windows API Code Pack 1.1](http://archive.msdn.microsoft.com/WindowsAPICodePack): access to Windows functions like TaskDialogs, which are not possible through the .NET framework
+* Main.dll: my own DLL for main application methods, ensuring consistent application behaviour
