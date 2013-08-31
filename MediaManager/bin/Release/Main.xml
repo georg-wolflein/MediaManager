@@ -1,0 +1,173 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Main
+</name>
+</assembly>
+<members>
+<member name="F:Main.Main.ErrorLog">
+	<summary>
+ The error log of the current session
+ </summary>
+	<remarks>Add to the Error Log using the Exception() method</remarks>
+</member><member name="M:Main.Main.#ctor(System.String,System.String,System.String,System.String,System.Int32,System.String,System.String,System.Drawing.Icon)">
+	<summary>
+ Initialize the parameters
+ </summary>
+	<param name="AppName">The application name</param>
+	<param name="AppVersion">The application version</param>
+	<param name="AppVersionType">The application development version type</param>
+	<param name="AppDescription">Some information to display in the about dialog</param>
+	<param name="AppCopyrightStartYear">When the development/copyright of this application started</param>
+	<param name="AppCopyrightHolder">The copyright holder (name)</param>
+	<param name="AppCopyright">The copyright text</param>
+	<remarks>It is required to call this routine before any other methods. The parameters are optional to prevent errors. However, it is strongly recommended to set all variables, except for the AppCopyright because this is dynamically set using the other provided AppCopyright variables. </remarks>
+</member><member name="F:Main.Main.AppName">
+	<summary>
+ The application name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Main.Main.AppVersion">
+	<summary>
+ The application version
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Main.Main.AppVersionType">
+	<summary>
+ The application development version type
+ </summary>
+	<remarks>This could be "Alpha" or "Beta". </remarks>
+</member><member name="F:Main.Main.AppDescription">
+	<summary>
+ Some information to display in the about dialog
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Main.Main.AppCopyrightStartYear">
+	<summary>
+ When the development/copyright of this application started
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Main.Main.AppCopyrightHolder">
+	<summary>
+ The copyright holder (name)
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Main.Main.AppCopyright">
+	<summary>
+ The copyright text
+ </summary>
+	<remarks>The year is defined in AppCopyrightStartYear and is displayed as YYYY. If the current year is later than the initial year, it is displayed as YYYY-YYYY.</remarks>
+</member><member name="M:Main.Main.GetAppCopyright">
+	<summary>
+ A helper method for updating the copyright text
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:Main.Main.AppIcon">
+	<summary>
+ The application's icon
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Main.Main.ApplicationName">
+	<summary>
+ The application name
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Main.Main.ApplicationVersion">
+	<summary>
+ The application version
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Main.Main.ApplicationVersionShort">
+	<summary>
+ The short version of the application version (major and minor version)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Main.Main.ApplicationInfo">
+	<summary>
+ The application information that should be shown on the forms' title bars. 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Main.Main.ApplicationDescription">
+	<summary>
+ Some information to display in the about dialog
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Main.Main.ApplicationCopyrightText">
+	<summary>
+ The copyright information
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Main.Main.ApplicationIcon">
+	<summary>
+ The application's icon
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Main.Main.Exception(System.Exception,System.String,Microsoft.VisualBasic.MsgBoxStyle,System.Boolean,System.Boolean)">
+	<summary>
+ Records an exception
+ </summary>
+	<param name="ExceptionObject">The object with the exception</param>
+	<param name="Description">An optional description of the problem for the user</param>
+	<param name="Style">The MsgBox style</param>
+	<param name="SurpressMsgBox">Indicates whether or not the MsgBox should be surpressed</param>
+	<param name="SurpressLog">Indicates whether or not the log entry should be written</param>
+	<remarks></remarks>
+</member><member name="M:Main.Main.GetWindowText(System.String)">
+	<summary>
+ Gets the text that should be shown on the Form's title bar. 
+ </summary>
+	<param name="Description">Optionally give a decription of the Form to show in the title as well. </param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Main.Main.ConfigureWindow(System.Windows.Forms.Form@,System.String)">
+	<summary>
+ Configures the given Form to match uniform behaviour. 
+ </summary>
+	<param name="Window">The Form that should be configured. </param>
+	<param name="Description">Optionally give a decription of the Form to show in the title. </param>
+	<remarks></remarks>
+</member><member name="M:Main.Main.ConfigureWindow(System.Windows.Forms.OpenFileDialog@,System.String)">
+	<summary>
+ Configures the given OpenFileDialog to match uniform behaviour. 
+ </summary>
+	<param name="Window">The OpenFileDialog that should be configured. </param>
+	<param name="Description">Optionally give a decription of the form to show in the title. </param>
+	<remarks></remarks>
+</member><member name="M:Main.Main.QualifyDirectory(System.String)">
+	<summary>
+ Adds "\" to the end of a directory if it is not the last character. 
+ </summary>
+	<param name="Directory">The directory string. </param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Main.Main.FolderPathFromFile(System.String)">
+	<summary>
+ Get the folder path from a file name. 
+ </summary>
+	<param name="FileName">The file name to be analyzed. </param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:Main.Main">
+	<summary>
+ Main application methods are stored here to ensure uniform characteristics on all forms. 
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

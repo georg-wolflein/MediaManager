@@ -1,0 +1,79 @@
+C:\Users\woegeo\AppData\Local\Temporary Projects\MediaManager\bin\Debug\MediaManager.exe
+C:\Users\woegeo\AppData\Local\Temporary Projects\MediaManager\bin\Debug\MediaManager.pdb
+C:\Users\woegeo\AppData\Local\Temporary Projects\MediaManager\bin\Debug\MediaManager.xml
+C:\Users\woegeo\AppData\Local\Temporary Projects\MediaManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\woegeo\AppData\Local\Temporary Projects\MediaManager\obj\Debug\MediaManager.FormMain.resources
+C:\Users\woegeo\AppData\Local\Temporary Projects\MediaManager\obj\Debug\MediaManager.FormSplashScreen.resources
+C:\Users\woegeo\AppData\Local\Temporary Projects\MediaManager\obj\Debug\MediaManager.Resources.resources
+C:\Users\woegeo\AppData\Local\Temporary Projects\MediaManager\obj\Debug\MediaManager.vbproj.GenerateResource.Cache
+C:\Users\woegeo\AppData\Local\Temporary Projects\MediaManager\obj\Debug\MediaManager.exe
+C:\Users\woegeo\AppData\Local\Temporary Projects\MediaManager\obj\Debug\MediaManager.xml
+C:\Users\woegeo\AppData\Local\Temporary Projects\MediaManager\obj\Debug\MediaManager.pdb
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.exe
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.xml
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.pdb
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\bin\Debug\MediaManager.exe
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\bin\Debug\MediaManager.pdb
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\bin\Debug\MediaManager.xml
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.FormMain.resources
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.FormSplashScreen.resources
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.Resources.resources
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.vbproj.GenerateResource.Cache
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\bin\Debug\Main.dll
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\bin\Debug\Main.pdb
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\bin\Debug\Main.xml
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\bin\Debug\MediaManager.exe.config
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.FormPrint.resources
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\bin\Debug\Gma.QrCodeNet.Encoding.Net35.pdb
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\bin\Debug\Gma.QrCodeNet.Encoding.Net35.xml
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.FormRawDatabase.resources
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.FormEditItem.resources
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\bin\Debug\MediaManager.exe.manifest
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\bin\Debug\MediaManager.application
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.exe.manifest
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.application
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\bin\Debug\de\MediaManager.resources.dll
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.FormEditItem.de.resources
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.FormMain.de.resources
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.FormPrint.de.resources
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\de\MediaManager.resources.dll
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.FormPreferences.resources
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.FormPreferences.de.resources
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.FormAbout.resources
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.FormAbout.de.resources
+C:\Users\woegeo\Documents\Visual Studio 2008\Projects\MediaManager\MediaManager\obj\Debug\MediaManager.FormRawDatabase.de.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\bin\Debug\MediaManager.exe.config
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.exe
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.xml
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.pdb
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\bin\Debug\MediaManager.exe.manifest
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\bin\Debug\MediaManager.application
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\bin\Debug\MediaManager.exe
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\bin\Debug\MediaManager.pdb
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\bin\Debug\MediaManager.xml
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\bin\Debug\de\MediaManager.resources.dll
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\bin\Debug\Gma.QrCodeNet.Encoding.Net35.pdb
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\bin\Debug\Gma.QrCodeNet.Encoding.Net35.xml
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.FormAbout.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.FormEditItem.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.FormMain.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.FormPreferences.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.FormPrint.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.FormRawDatabase.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.FormSplashScreen.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.Resources.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.FormAbout.de.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.FormEditItem.de.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.FormMain.de.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.FormPreferences.de.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.FormPrint.de.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.FormRawDatabase.de.resources
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.vbproj.GenerateResource.Cache
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\de\MediaManager.resources.dll
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.exe.manifest
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\obj\Debug\MediaManager.application
+C:\Users\woegeo\Documents\GitHub\MediaManager\MediaManager\bin\Debug\Main.dll
