@@ -134,8 +134,8 @@
   <data name="&gt;&gt;ButtonMediaDatabaseFileNameBrowse.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="CheckBoxRestoreMainWindow.Size" type="System.Drawing.Size, System.Drawing">
-    <value>307, 17</value>
+  <data name="&gt;&gt;CheckBoxShowExitConfirmation.Name" xml:space="preserve">
+    <value>CheckBoxShowExitConfirmation</value>
   </data>
   <data name="ComboBoxLanguage.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -143,17 +143,14 @@
   <data name="&gt;&gt;TextBoxMediaDatabaseFileName.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;GroupBoxWarnings.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="CheckBoxRestoreMainWindow.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 19</value>
   </data>
   <data name="GroupBoxMainWindow.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="GroupBoxWarnings.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 119</value>
-  </data>
-  <data name="&gt;&gt;LabelMediaDatabaseFileName.Parent" xml:space="preserve">
-    <value>GroupBoxMediaDatabase</value>
+  <data name="TabControlMain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
   </data>
   <data name="CheckBoxShowExitConfirmation.Text" xml:space="preserve">
     <value>Show exit confirmation</value>
@@ -161,14 +158,14 @@
   <data name="LabelMediaDatabaseFileName.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 22</value>
   </data>
-  <data name="&gt;&gt;ButtonMediaDatabaseFileNameBrowse.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="ButtonSave.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;LabelMediaDatabaseFileName.Parent" xml:space="preserve">
+    <value>GroupBoxMediaDatabase</value>
   </data>
   <data name="&gt;&gt;TabControlMain.Name" xml:space="preserve">
     <value>TabControlMain</value>
-  </data>
-  <data name="&gt;&gt;LabelMediaDatabaseFileName.ZOrder" xml:space="preserve">
-    <value>1</value>
   </data>
   <data name="&gt;&gt;TabPageGeneral.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -185,8 +182,8 @@
   <data name="&gt;&gt;GroupBoxMediaDatabase.Parent" xml:space="preserve">
     <value>TabPageGeneral</value>
   </data>
-  <data name="CheckBoxRestoreMainWindow.Text" xml:space="preserve">
-    <value>Restore main window dimensions automatically from last exit</value>
+  <data name="GroupBoxWarnings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>496, 42</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="TabControlMain.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
@@ -201,8 +198,8 @@
   <data name="LabelMediaDatabaseFileName.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="TabPageDisplay.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+  <data name="GroupBoxWarnings.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 119</value>
   </data>
   <data name="LabelMediaDatabaseFileName.Text" xml:space="preserve">
     <value>Filename: </value>
@@ -210,26 +207,20 @@
   <data name="ButtonMediaDatabaseFileNameBrowse.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;ButtonMediaDatabaseFileNameBrowse.Name" xml:space="preserve">
-    <value>ButtonMediaDatabaseFileNameBrowse</value>
-  </data>
   <data name="&gt;&gt;TabControlMain.Type" xml:space="preserve">
     <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="GroupBoxWarnings.Text" xml:space="preserve">
     <value>Warnings</value>
   </data>
-  <data name="GroupBoxWarnings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>496, 42</value>
-  </data>
   <data name="TabPageDisplay.Text" xml:space="preserve">
     <value>Display</value>
   </data>
-  <data name="ButtonSave.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
   <data name="&gt;&gt;LabelMediaDatabaseFileName.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TabPageDisplay.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Preferences</value>
@@ -237,23 +228,32 @@
   <data name="&gt;&gt;TabControlMain.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;TabPageDisplay.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="CheckBoxShowExitConfirmation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 19</value>
   </data>
   <data name="&gt;&gt;CheckBoxRestoreMainWindow.Name" xml:space="preserve">
     <value>CheckBoxRestoreMainWindow</value>
   </data>
+  <data name="&gt;&gt;LabelLanguage.Name" xml:space="preserve">
+    <value>LabelLanguage</value>
+  </data>
+  <data name="&gt;&gt;ButtonSave.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="TabPageGeneral.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;GroupBoxMainWindow.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="GroupBoxMediaDatabase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 63</value>
   </data>
   <data name="&gt;&gt;ComboBoxLanguage.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;ComboBoxLanguage.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="TabPageGeneral.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
   </data>
   <data name="&gt;&gt;CheckBoxRestoreMainWindow.Parent" xml:space="preserve">
     <value>GroupBoxMainWindow</value>
@@ -273,17 +273,14 @@
   <data name="CheckBoxShowExitConfirmation.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="TabControlMain.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="&gt;&gt;LabelMediaDatabaseFileName.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="LabelMediaDatabaseFileName.Size" type="System.Drawing.Size, System.Drawing">
     <value>55, 13</value>
   </data>
   <data name="&gt;&gt;GroupBoxWarnings.Name" xml:space="preserve">
     <value>GroupBoxWarnings</value>
-  </data>
-  <data name="CheckBoxShowExitConfirmation.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
   </data>
   <data name="&gt;&gt;GroupBoxMediaDatabase.Type" xml:space="preserve">
     <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -297,17 +294,17 @@
   <data name="&gt;&gt;ComboBoxLanguage.Parent" xml:space="preserve">
     <value>GroupBoxLanguage</value>
   </data>
+  <data name="&gt;&gt;TextBoxMediaDatabaseFileName.Parent" xml:space="preserve">
+    <value>GroupBoxMediaDatabase</value>
+  </data>
   <data name="TabPageDisplay.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
-  <data name="TabControlMain.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
+  <data name="&gt;&gt;GroupBoxMainWindow.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;GroupBoxMediaDatabase.ZOrder" xml:space="preserve">
     <value>1</value>
-  </data>
-  <data name="&gt;&gt;CheckBoxShowExitConfirmation.Name" xml:space="preserve">
-    <value>CheckBoxShowExitConfirmation</value>
   </data>
   <data name="&gt;&gt;CheckBoxShowExitConfirmation.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -327,8 +324,8 @@
   <data name="&gt;&gt;TabPageGeneral.Type" xml:space="preserve">
     <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="TabPageGeneral.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+  <data name="&gt;&gt;GroupBoxWarnings.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="TextBoxMediaDatabaseFileName.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -336,8 +333,11 @@
   <data name="LabelLanguage.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 22</value>
   </data>
-  <data name="CheckBoxShowExitConfirmation.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 19</value>
+  <data name="ButtonMediaDatabaseFileNameBrowse.Size" type="System.Drawing.Size, System.Drawing">
+    <value>24, 23</value>
+  </data>
+  <data name="TabPageGeneral.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
   </data>
   <data name="LabelLanguage.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -360,14 +360,11 @@
   <data name="&gt;&gt;GroupBoxLanguage.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="GroupBoxMainWindow.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 6</value>
-  </data>
   <data name="&gt;&gt;CheckBoxRestoreMainWindow.Type" xml:space="preserve">
     <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;LabelLanguage.Name" xml:space="preserve">
-    <value>LabelLanguage</value>
+  <data name="&gt;&gt;ButtonMediaDatabaseFileNameBrowse.Name" xml:space="preserve">
+    <value>ButtonMediaDatabaseFileNameBrowse</value>
   </data>
   <data name="TabControlMain.Size" type="System.Drawing.Size, System.Drawing">
     <value>516, 364</value>
@@ -383,9 +380,6 @@
   </data>
   <data name="GroupBoxMediaDatabase.Size" type="System.Drawing.Size, System.Drawing">
     <value>496, 50</value>
-  </data>
-  <data name="&gt;&gt;LabelLanguage.ZOrder" xml:space="preserve">
-    <value>1</value>
   </data>
   <data name="GroupBoxLanguage.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -417,14 +411,14 @@
   <data name="&gt;&gt;GroupBoxLanguage.Name" xml:space="preserve">
     <value>GroupBoxLanguage</value>
   </data>
-  <data name="ComboBoxLanguage.Location" type="System.Drawing.Point, System.Drawing">
-    <value>117, 19</value>
-  </data>
-  <data name="LabelLanguage.Text" xml:space="preserve">
-    <value>Choose a language: </value>
+  <data name="CheckBoxShowExitConfirmation.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="CheckBoxShowExitConfirmation.Size" type="System.Drawing.Size, System.Drawing">
     <value>132, 17</value>
+  </data>
+  <data name="&gt;&gt;TabPageDisplay.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;TabPageGeneral.Parent" xml:space="preserve">
     <value>TabControlMain</value>
@@ -438,8 +432,11 @@
   <data name="GroupBoxMediaDatabase.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;TabPageDisplay.Parent" xml:space="preserve">
-    <value>TabControlMain</value>
+  <data name="&gt;&gt;ButtonMediaDatabaseFileNameBrowse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ComboBoxLanguage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>117, 19</value>
   </data>
   <data name="&gt;&gt;TextBoxMediaDatabaseFileName.Name" xml:space="preserve">
     <value>TextBoxMediaDatabaseFileName</value>
@@ -450,11 +447,8 @@
   <data name="&gt;&gt;GroupBoxWarnings.Parent" xml:space="preserve">
     <value>TabPageGeneral</value>
   </data>
-  <data name="CheckBoxRestoreMainWindow.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 19</value>
-  </data>
-  <data name="&gt;&gt;TextBoxMediaDatabaseFileName.Parent" xml:space="preserve">
-    <value>GroupBoxMediaDatabase</value>
+  <data name="GroupBoxMainWindow.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 6</value>
   </data>
   <data name="GroupBoxMainWindow.Text" xml:space="preserve">
     <value>Main Window</value>
@@ -462,29 +456,35 @@
   <data name="&gt;&gt;GroupBoxLanguage.Parent" xml:space="preserve">
     <value>TabPageGeneral</value>
   </data>
+  <data name="TabControlMain.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
   <data name="ButtonSave.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Bottom</value>
   </data>
-  <data name="GroupBoxMediaDatabase.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 63</value>
+  <data name="CheckBoxRestoreMainWindow.Text" xml:space="preserve">
+    <value>Restore main window dimensions automatically from last exit</value>
   </data>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>6, 13</value>
   </data>
-  <data name="&gt;&gt;ButtonSave.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="LabelLanguage.Text" xml:space="preserve">
+    <value>Choose a language: </value>
   </data>
-  <data name="&gt;&gt;GroupBoxLanguage.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="CheckBoxRestoreMainWindow.Size" type="System.Drawing.Size, System.Drawing">
+    <value>307, 17</value>
   </data>
   <data name="&gt;&gt;ButtonSave.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="&gt;&gt;TabPageDisplay.Parent" xml:space="preserve">
+    <value>TabControlMain</value>
+  </data>
   <data name="&gt;&gt;CheckBoxRestoreMainWindow.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="TabPageGeneral.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 3, 3, 3</value>
+  <data name="&gt;&gt;GroupBoxLanguage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;ButtonMediaDatabaseFileNameBrowse.Parent" xml:space="preserve">
     <value>GroupBoxMediaDatabase</value>
@@ -492,8 +492,8 @@
   <data name="&gt;&gt;ButtonSave.Name" xml:space="preserve">
     <value>ButtonSave</value>
   </data>
-  <data name="ButtonMediaDatabaseFileNameBrowse.Size" type="System.Drawing.Size, System.Drawing">
-    <value>24, 23</value>
+  <data name="&gt;&gt;LabelLanguage.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="LabelMediaDatabaseFileName.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -512,8 +512,5 @@
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
-  </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>German</value>
   </metadata>
 </root>

@@ -31,13 +31,7 @@ Public Class FormMain
         GroupBoxFind.Hide()
         If My.Settings.LoadLastFormSizes Then LoadFormSettings()
 
-        If File.Exists(My.Settings.MediaDatabaseFile) Then
-            RefreshDatabase()
-            FillFindFields()
-        Else
-            TaskDialog.Show("", "The media database file at """ & My.Settings.MediaDatabaseFile & """ was not found. After clicking OK, the preferences will show up, where you should specify a valid path.", Main.GetWindowText("Database Not Found"))
-            FormPreferences.ShowDialog()
-        End If
+        RefreshDatabase()
     End Sub
 
     Private Sub FormMain_FormClosing(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles Me.FormClosing
@@ -113,8 +107,16 @@ Public Class FormMain
 #Region "Database"
 
     Private Sub RefreshDatabase()
-        Media = New CsvDatabase(My.Settings.MediaDatabaseFile)
-        FillData()
+        If File.Exists(My.Settings.MediaDatabaseFile) Then
+            Media = New CsvDatabase(My.Settings.MediaDatabaseFile)
+            FillData()
+            FillFindFields()
+        Else
+            TaskDialog.Show("", "The media database file at """ & My.Settings.MediaDatabaseFile & """ was not found. After clicking OK, the preferences will show up, where you should specify a valid path.", Main.GetWindowText("Database Not Found"))
+            Dim Preferences As New FormPreferences(FormPreferences.SaveAction.SaveAndClose)
+            Preferences.ShowDialog()
+            RefreshDatabase()
+        End If
     End Sub
 
     Private Sub FillData()
@@ -204,7 +206,8 @@ Public Class FormMain
     End Sub
 
     Private Sub PreferencesToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PreferencesToolStripMenuItem.Click
-        FormPreferences.ShowDialog()
+        Dim Preferences As New FormPreferences()
+        Preferences.ShowDialog()
     End Sub
 
     Private Sub AboutToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles AboutToolStripMenuItem.Click
