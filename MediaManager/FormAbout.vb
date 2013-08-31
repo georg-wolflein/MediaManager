@@ -24,4 +24,12 @@
     Private Sub ButtonOk_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonOk.Click
         Me.Close()
     End Sub
+
+    Private Sub LinkLabelGitHub_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabelGitHub.LinkClicked
+        Process.Start("https://github.com/georgw777/MediaManager")
+    End Sub
+
+    Private Sub LinkLabelGitHubGeorg_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabelGitHubGeorg.LinkClicked
+        Process.Start("https://github.com/georgw777/")
+    End Sub
 End Class

@@ -28,6 +28,9 @@ Partial Class FormAbout
         Me.LabelAppDescription = New System.Windows.Forms.Label
         Me.LabelAppName = New System.Windows.Forms.Label
         Me.ButtonOk = New System.Windows.Forms.Button
+        Me.LabelGitHub = New System.Windows.Forms.Label
+        Me.LinkLabelGitHub = New System.Windows.Forms.LinkLabel
+        Me.LinkLabelGitHubGeorg = New System.Windows.Forms.LinkLabel
         Me.SuspendLayout()
         '
         'LabelAppCopyright
@@ -56,12 +59,32 @@ Partial Class FormAbout
         Me.ButtonOk.Name = "ButtonOk"
         Me.ButtonOk.UseVisualStyleBackColor = True
         '
+        'LabelGitHub
+        '
+        resources.ApplyResources(Me.LabelGitHub, "LabelGitHub")
+        Me.LabelGitHub.Name = "LabelGitHub"
+        '
+        'LinkLabelGitHub
+        '
+        resources.ApplyResources(Me.LinkLabelGitHub, "LinkLabelGitHub")
+        Me.LinkLabelGitHub.Name = "LinkLabelGitHub"
+        Me.LinkLabelGitHub.TabStop = True
+        '
+        'LinkLabelGitHubGeorg
+        '
+        resources.ApplyResources(Me.LinkLabelGitHubGeorg, "LinkLabelGitHubGeorg")
+        Me.LinkLabelGitHubGeorg.Name = "LinkLabelGitHubGeorg"
+        Me.LinkLabelGitHubGeorg.TabStop = True
+        '
         'FormAbout
         '
         Me.AcceptButton = Me.ButtonOk
         resources.ApplyResources(Me, "$this")
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ControlBox = False
+        Me.Controls.Add(Me.LinkLabelGitHubGeorg)
+        Me.Controls.Add(Me.LinkLabelGitHub)
+        Me.Controls.Add(Me.LabelGitHub)
         Me.Controls.Add(Me.ButtonOk)
         Me.Controls.Add(Me.LabelAppCopyright)
         Me.Controls.Add(Me.LabelAppVersion)
@@ -80,4 +103,7 @@ Partial Class FormAbout
     Friend WithEvents LabelAppDescription As System.Windows.Forms.Label
     Friend WithEvents LabelAppName As System.Windows.Forms.Label
     Friend WithEvents ButtonOk As System.Windows.Forms.Button
+    Friend WithEvents LabelGitHub As System.Windows.Forms.Label
+    Friend WithEvents LinkLabelGitHub As System.Windows.Forms.LinkLabel
+    Friend WithEvents LinkLabelGitHubGeorg As System.Windows.Forms.LinkLabel
 End Class

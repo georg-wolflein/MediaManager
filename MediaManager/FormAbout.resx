@@ -144,7 +144,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;LabelAppCopyright.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>4</value>
   </data>
   <data name="LabelAppVersion.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -171,7 +171,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;LabelAppVersion.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>5</value>
   </data>
   <data name="LabelAppDescription.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -201,7 +201,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;LabelAppDescription.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>6</value>
   </data>
   <data name="LabelAppName.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -231,10 +231,10 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;LabelAppName.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>7</value>
   </data>
   <data name="ButtonOk.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 119</value>
+    <value>12, 184</value>
   </data>
   <data name="ButtonOk.Size" type="System.Drawing.Size, System.Drawing">
     <value>410, 44</value>
@@ -255,6 +255,87 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;ButtonOk.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="LabelGitHub.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LabelGitHub.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 143</value>
+  </data>
+  <data name="LabelGitHub.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 13</value>
+  </data>
+  <data name="LabelGitHub.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="LabelGitHub.Text" xml:space="preserve">
+    <value>This project is open-source. </value>
+  </data>
+  <data name="&gt;&gt;LabelGitHub.Name" xml:space="preserve">
+    <value>LabelGitHub</value>
+  </data>
+  <data name="&gt;&gt;LabelGitHub.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelGitHub.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelGitHub.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="LinkLabelGitHub.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LinkLabelGitHub.Location" type="System.Drawing.Point, System.Drawing">
+    <value>148, 143</value>
+  </data>
+  <data name="LinkLabelGitHub.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 13</value>
+  </data>
+  <data name="LinkLabelGitHub.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="LinkLabelGitHub.Text" xml:space="preserve">
+    <value>View MediaManager on GitHub. </value>
+  </data>
+  <data name="&gt;&gt;LinkLabelGitHub.Name" xml:space="preserve">
+    <value>LinkLabelGitHub</value>
+  </data>
+  <data name="&gt;&gt;LinkLabelGitHub.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LinkLabelGitHub.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LinkLabelGitHub.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="LinkLabelGitHubGeorg.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LinkLabelGitHubGeorg.Location" type="System.Drawing.Point, System.Drawing">
+    <value>148, 159</value>
+  </data>
+  <data name="LinkLabelGitHubGeorg.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 13</value>
+  </data>
+  <data name="LinkLabelGitHubGeorg.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="LinkLabelGitHubGeorg.Text" xml:space="preserve">
+    <value>View Georg Wölflein on GitHub. </value>
+  </data>
+  <data name="&gt;&gt;LinkLabelGitHubGeorg.Name" xml:space="preserve">
+    <value>LinkLabelGitHubGeorg</value>
+  </data>
+  <data name="&gt;&gt;LinkLabelGitHubGeorg.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LinkLabelGitHubGeorg.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LinkLabelGitHubGeorg.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -264,7 +345,7 @@
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>434, 175</value>
+    <value>434, 240</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>About</value>
