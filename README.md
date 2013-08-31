@@ -18,7 +18,7 @@ If you want to do a full setup (install it on your computer) open [INSTALL](INST
 
 
 ### Executable Only
-If you do not want a full installation and just want to test it, navigate to [INSTALL/Application Files](INSTALL/Application Files) and open the latest version of GamingBot. Then, execute GamingBot.exe. Have fun! As mentioned above, you can download "INSTALL.zip" from the latest [release](../../releases). 
+If you do not want a full installation and just want to test it, navigate to [INSTALL/Application Files](INSTALL/Application Files) and open the latest version of MediaManager. Then, execute MediaManager.exe. Have fun! As mentioned above, you can download `MediaManager-{latest-version}.zip` from the latest [release](../../releases). 
 
 
 ### Problems
