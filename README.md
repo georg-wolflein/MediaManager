@@ -39,4 +39,4 @@ The following libraries were used in this project:
 
 * [QrCode.Net](http://qrcodenet.codeplex.com/): an easy-to-use QR code library for the .NET framework
 * [Windows API Code Pack 1.1](http://archive.msdn.microsoft.com/WindowsAPICodePack): access to Windows functions like TaskDialogs, which are not possible through the .NET framework
-* Main.dll: my own DLL for main application methods, ensuring consistent application behaviour
+* [Main.dll](MediaManager/libs/Main.dll): my own DLL for main application methods, ensuring consistent application behaviour
