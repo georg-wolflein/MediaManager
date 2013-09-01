@@ -338,7 +338,7 @@ End Class
 
 Public Module MainInfo
 
-    Public Main As New Main.Main("MediaManager", "0.0.2.1", "Beta", "CD organization made easy.", 2013, "Georg Wölflein")
+    Public Main As New Main.Main("MediaManager", "0.0.2.2", "Beta", "CD organization made easy.", 2013, "Georg Wölflein")
 
     Public Function EncodeQrCode(ByVal Text As String) As Image
         Dim Encoder As New QrEncoder(ErrorCorrectionLevel.M)
