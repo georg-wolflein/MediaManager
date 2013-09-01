@@ -34,12 +34,28 @@
 
 <p>CD organization made easy. </p>
 
+<p>Click <a href="#installing">here</a> for installation instructions. </p>
+
 <h2>
 <a name="about" class="anchor" href="#about"><span class="octicon octicon-link"></span></a>About</h2>
 
-<p>MediaManager is an application, where you can enter in your CDs and DVDs. You can print stickers with QR codes that you can attach to your CDs in order to always find them. The media database can be edited directly in the application or in Microsoft Office Excel. </p>
+<p>MediaManager is an application, where you can enter in your CD and DVD information. You can print stickers with QR codes that you can attach to your CDs in order to always find them. The media database can be edited directly in the application or in Microsoft Office Excel. </p>
 
-<h2>
+<h3>
+<a name="cddvd-information" class="anchor" href="#cddvd-information"><span class="octicon octicon-link"></span></a>CD/DVD Information</h3>
+
+<p>Currently, you can store the following information in the media database: </p>
+
+<ul>
+<li>Media ID</li>
+<li>Name</li>
+<li>Volume number</li>
+<li>Volume name</li>
+<li>Number of CDs/DVDs (if it is a pack)</li>
+<li>Artist</li>
+<li>Location (if you have several shelves)</li>
+<li>Comments</li>
+</ul><h2>
 <a name="installing" class="anchor" href="#installing"><span class="octicon octicon-link"></span></a>Installing</h2>
 
 <p>Please note that this application was programmed in Visual Basic and therefore only works on the Windows operating system. </p>
@@ -62,6 +78,14 @@
 <p>Another problem might be that you cannot start the application. If this is the case, make sure that the DLL <a href="Main.dll">Main.dll</a> is located in the same directory as GamingBot.exe. </p>
 
 <h2>
+<a name="to-do-list" class="anchor" href="#to-do-list"><span class="octicon octicon-link"></span></a>To-Do List</h2>
+
+<ul>
+<li>Add a "create default/sample media database function"</li>
+<li>Create an updater (as an external executable)</li>
+<li>Save settings without having to restart manually</li>
+<li>Add a restart feature</li>
+</ul><h2>
 <a name="libraries" class="anchor" href="#libraries"><span class="octicon octicon-link"></span></a>Libraries</h2>
 
 <p>The following libraries were used in this project: </p>
@@ -71,7 +95,8 @@
 <a href="http://qrcodenet.codeplex.com/">QrCode.Net</a>: an easy-to-use QR code library for the .NET framework</li>
 <li>
 <a href="http://archive.msdn.microsoft.com/WindowsAPICodePack">Windows API Code Pack 1.1</a>: access to Windows functions like TaskDialogs, which are not possible through the .NET framework</li>
-<li>Main.dll: my own DLL for main application methods, ensuring consistent application behaviour</li>
+<li>
+<a href="MediaManager/libs/Main.dll">Main.dll</a>: my own DLL for main application methods, ensuring consistent application behaviour</li>
 </ul>
         </section>
 
