@@ -27,6 +27,12 @@ If you are encountering problems during the installation, it's probably because 
 Another problem might be that you cannot start the application. If this is the case, make sure that the DLL [Main.dll](Main.dll) is located in the same directory as GamingBot.exe. 
 
 
+## To-Do List
+- [ ] Create an updater (as an external executable)
+- [ ] Save settings without having to restart manually
+- [ ] Add a restart feature
+
+
 ## Libraries
 
 The following libraries were used in this project: 
