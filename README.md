@@ -28,9 +28,9 @@ Another problem might be that you cannot start the application. If this is the c
 
 
 ## To-Do List
-- [ ] Create an updater (as an external executable)
-- [ ] Save settings without having to restart manually
-- [ ] Add a restart feature
+- Create an updater (as an external executable)
+- Save settings without having to restart manually
+- Add a restart feature
 
 
 ## Libraries
