@@ -1,7 +1,7 @@
 [MediaManager](http://georgw777.github.io/MediaManager/)
 ============
 
-CD organization made easy. 
+CD organization made easy. [Click here for installation instructions](#installing)
 
 
 ## About
