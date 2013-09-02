@@ -54,7 +54,7 @@ The following libraries were used in this project:
 - [Main.dll](MediaManager/libs/Main.dll): my own DLL for main application methods, ensuring consistent application behaviour
 
 
-## Liscence
+## Licence
 This project is licensed under the [MIT License](http://opensource.org/licenses/MIT): 
 ```
 Copyright (c) 2013 by Georg Wölflein
