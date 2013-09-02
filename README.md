@@ -1,5 +1,5 @@
-***
-# [MediaManager](http://georgw777.github.io/MediaManager/)
+[MediaManager](http://georgw777.github.io/MediaManager/)
+============
 
 CD organization made easy. 
 
