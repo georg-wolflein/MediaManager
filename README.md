@@ -3,7 +3,9 @@
 
 CD organization made easy. 
 
-Click [here](#installing) for installation instructions. 
+Click [here](http://georgw777.github.io/MediaManager/documentation/mediamanager.html) for the documentation. 
+
+Jump to [installation instructions](#installing). 
 
 
 ## About
