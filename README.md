@@ -1,11 +1,6 @@
 [MediaManager](http://georgw777.github.io/MediaManager/)
 ============
-
-CD organization made easy. 
-
-Click [here](http://georgw777.github.io/MediaManager/documentation/mediamanager.html) for the documentation. 
-
-Jump to [installation instructions](#installing). 
+Click [here](http://georgw777.github.io/MediaManager/documentation/mediamanager.html) for the documentation. Jump to [installation instructions](#installing). 
 
 
 ## About
