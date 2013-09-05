@@ -127,6 +127,9 @@
   <data name="GroupBoxItemsToPrint.Text" xml:space="preserve">
     <value>Elemente</value>
   </data>
+  <data name="GroupBoxItemInfo.Text" xml:space="preserve">
+    <value>Elementinformationen</value>
+  </data>
   <data name="LabelItemLocation.Size" type="System.Drawing.Size, System.Drawing">
     <value>27, 13</value>
   </data>
@@ -156,9 +159,6 @@
   </data>
   <data name="LabelItemVolume.Text" xml:space="preserve">
     <value>Band: </value>
-  </data>
-  <data name="GroupBoxItemInfo.Text" xml:space="preserve">
-    <value>Elementinformationen</value>
   </data>
   <data name="ButtonPrint.Location" type="System.Drawing.Point, System.Drawing">
     <value>408, 356</value>

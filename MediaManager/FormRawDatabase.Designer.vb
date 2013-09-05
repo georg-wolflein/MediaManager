@@ -46,6 +46,7 @@ Partial Class FormRawDatabase
         Me.Font = Nothing
         Me.Icon = Nothing
         Me.Name = "FormRawDatabase"
+        Me.ShowIcon = False
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

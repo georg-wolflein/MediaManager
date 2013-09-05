@@ -117,460 +117,460 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="LabelItemMediaId.Size" type="System.Drawing.Size, System.Drawing">
-    <value>24, 13</value>
-  </data>
-  <data name="TextBoxItemComments.Location" type="System.Drawing.Point, System.Drawing">
-    <value>81, 144</value>
-  </data>
-  <data name="&gt;&gt;LabelItemMediaId.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="LabelItemArtist.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
+  <data name="LabelItemLocation.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
-  <data name="&gt;&gt;LabelItemLocation.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;PictureBoxQrCode.Name" xml:space="preserve">
-    <value>PictureBoxQrCode</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemLocation.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemComments.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemName.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="TextBoxItemLocation.Size" type="System.Drawing.Size, System.Drawing">
-    <value>251, 20</value>
-  </data>
-  <data name="&gt;&gt;LabelItemNumCds.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="LabelItemArtist.Text" xml:space="preserve">
-    <value>Artist: </value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="TextBoxItemComments.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
-    <value>Both</value>
-  </data>
-  <data name="TextBoxItemVolumeName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>172, 20</value>
-  </data>
-  <data name="&gt;&gt;PictureBoxQrCode.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemVolumeName.Name" xml:space="preserve">
-    <value>TextBoxItemVolumeName</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemNumCds.ZOrder" xml:space="preserve">
-    <value>16</value>
-  </data>
-  <data name="TextBoxItemName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>81, 12</value>
-  </data>
-  <data name="&gt;&gt;LabelItemName.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="LabelItemVolume.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 41</value>
-  </data>
-  <data name="LabelItemLocation.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemArtist.Name" xml:space="preserve">
-    <value>TextBoxItemArtist</value>
-  </data>
-  <data name="&gt;&gt;LabelItemLocation.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="LabelItemLocation.Text" xml:space="preserve">
-    <value>Location: </value>
-  </data>
-  <data name="TextBoxItemComments.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="LabelItemNumCds.Text" xml:space="preserve">
-    <value># of CDs: </value>
-  </data>
-  <data name="&gt;&gt;ButtonSaveAndExit.Name" xml:space="preserve">
-    <value>ButtonSaveAndExit</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemLocation.Name" xml:space="preserve">
-    <value>TextBoxItemLocation</value>
-  </data>
-  <data name="ButtonCancel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 407</value>
-  </data>
-  <data name="LabelItemNumCds.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="LabelItemComments.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;LabelItemName.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemName.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="LabelItemLocation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 93</value>
   </data>
   <data name="LabelItemLocation.Size" type="System.Drawing.Size, System.Drawing">
     <value>54, 13</value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>FormEditItem</value>
-  </data>
-  <data name="&gt;&gt;LabelItemArtist.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemComments.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="PictureBoxQrCode.TabIndex" type="System.Int32, mscorlib">
+  <data name="LabelItemLocation.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
   </data>
-  <data name="LabelItemArtist.Size" type="System.Drawing.Size, System.Drawing">
-    <value>36, 13</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
-  </data>
-  <data name="&gt;&gt;LabelItemComments.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;ButtonCancel.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="TextBoxItemLocation.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="TextBoxItemName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>251, 20</value>
-  </data>
-  <data name="&gt;&gt;ButtonCancel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemLocation.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="LabelItemNumCds.Size" type="System.Drawing.Size, System.Drawing">
-    <value>55, 13</value>
-  </data>
-  <data name="TextBoxItemMediaId.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="LabelItemVolume.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemNumCds.Name" xml:space="preserve">
-    <value>TextBoxItemNumCds</value>
-  </data>
-  <data name="TextBoxItemVolume.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;LabelItemMediaId.Name" xml:space="preserve">
-    <value>LabelItemMediaId</value>
-  </data>
-  <data name="&gt;&gt;ButtonSaveAndExit.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;PictureBoxQrCode.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ButtonSaveAndExit.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;LabelItemVolume.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemMediaId.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="TextBoxItemArtist.Size" type="System.Drawing.Size, System.Drawing">
-    <value>251, 20</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemArtist.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;LabelItemMediaId.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;ButtonCancel.Name" xml:space="preserve">
-    <value>ButtonCancel</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemMediaId.Name" xml:space="preserve">
-    <value>TextBoxItemMediaId</value>
-  </data>
-  <data name="&gt;&gt;LabelItemVolume.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelItemArtist.Name" xml:space="preserve">
-    <value>LabelItemArtist</value>
-  </data>
-  <data name="&gt;&gt;ButtonSaveAndExit.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="LabelItemVolume.Text" xml:space="preserve">
-    <value>Volume: </value>
-  </data>
-  <data name="PictureBoxQrCode.Location" type="System.Drawing.Point, System.Drawing">
-    <value>338, 12</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemVolumeName.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="TextBoxItemNumCds.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="TextBoxItemArtist.Location" type="System.Drawing.Point, System.Drawing">
-    <value>81, 64</value>
-  </data>
-  <data name="&gt;&gt;LabelItemComments.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemNumCds.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="TextBoxItemComments.Size" type="System.Drawing.Size, System.Drawing">
-    <value>357, 257</value>
-  </data>
-  <data name="TextBoxItemComments.Multiline" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemNumCds.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="LabelItemName.Text" xml:space="preserve">
-    <value>Name: </value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemComments.Name" xml:space="preserve">
-    <value>TextBoxItemComments</value>
-  </data>
-  <data name="LabelItemComments.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 147</value>
-  </data>
-  <data name="TextBoxItemNumCds.Location" type="System.Drawing.Point, System.Drawing">
-    <value>81, 118</value>
-  </data>
-  <data name="&gt;&gt;LabelItemName.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>FormEditItem</value>
-  </data>
-  <data name="&gt;&gt;LabelItemVolume.ZOrder" xml:space="preserve">
-    <value>17</value>
-  </data>
-  <data name="PictureBoxQrCode.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 100</value>
-  </data>
-  <data name="LabelItemArtist.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 67</value>
-  </data>
-  <data name="LabelItemNumCds.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 121</value>
-  </data>
-  <data name="ButtonCancel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>63, 43</value>
-  </data>
-  <data name="TextBoxItemMediaId.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 20</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemVolumeName.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="TextBoxItemMediaId.Location" type="System.Drawing.Point, System.Drawing">
-    <value>365, 118</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemMediaId.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="LabelItemComments.Size" type="System.Drawing.Size, System.Drawing">
-    <value>62, 13</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelItemArtist.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemLocation.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="TextBoxItemArtist.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;PictureBoxQrCode.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="TextBoxItemVolume.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 20</value>
-  </data>
-  <data name="ButtonSaveAndExit.Location" type="System.Drawing.Point, System.Drawing">
-    <value>81, 407</value>
-  </data>
-  <data name="LabelItemName.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemName.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;LabelItemName.Name" xml:space="preserve">
-    <value>LabelItemName</value>
-  </data>
-  <data name="LabelItemVolume.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="LabelItemName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>41, 13</value>
-  </data>
-  <data name="TextBoxItemVolumeName.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemName.Name" xml:space="preserve">
-    <value>TextBoxItemName</value>
-  </data>
-  <data name="&gt;&gt;LabelItemNumCds.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="TextBoxItemLocation.Location" type="System.Drawing.Point, System.Drawing">
-    <value>81, 90</value>
-  </data>
-  <data name="LabelItemComments.Text" xml:space="preserve">
-    <value>Comments: </value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemArtist.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="LabelItemComments.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemVolume.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelItemMediaId.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemArtist.ZOrder" xml:space="preserve">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemMediaId.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="TextBoxItemName.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;TextBoxItemComments.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;LabelItemNumCds.Name" xml:space="preserve">
-    <value>LabelItemNumCds</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>451, 462</value>
-  </data>
-  <data name="ButtonSaveAndExit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>357, 43</value>
-  </data>
-  <data name="TextBoxItemVolumeName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>160, 38</value>
+  <data name="LabelItemLocation.Text" xml:space="preserve">
+    <value>Location: </value>
+  </data>
+  <data name="&gt;&gt;LabelItemLocation.Name" xml:space="preserve">
+    <value>LabelItemLocation</value>
   </data>
   <data name="&gt;&gt;LabelItemLocation.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="TextBoxItemVolume.Location" type="System.Drawing.Point, System.Drawing">
-    <value>81, 38</value>
+  <data name="&gt;&gt;LabelItemLocation.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="LabelItemLocation.AutoSize" type="System.Boolean, mscorlib">
+  <data name="&gt;&gt;LabelItemLocation.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="TextBoxItemLocation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 90</value>
+  </data>
+  <data name="TextBoxItemLocation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>251, 20</value>
+  </data>
+  <data name="TextBoxItemLocation.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemLocation.Name" xml:space="preserve">
+    <value>TextBoxItemLocation</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemLocation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemLocation.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemLocation.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="LabelItemNumCds.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="TextBoxItemComments.WordWrap" type="System.Boolean, mscorlib">
-    <value>False</value>
+  <data name="LabelItemNumCds.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 121</value>
   </data>
-  <data name="TextBoxItemNumCds.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 20</value>
+  <data name="LabelItemNumCds.Size" type="System.Drawing.Size, System.Drawing">
+    <value>55, 13</value>
   </data>
-  <data name="LabelItemName.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="LabelItemNumCds.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
   </data>
-  <data name="LabelItemArtist.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="LabelItemNumCds.Text" xml:space="preserve">
+    <value># of CDs: </value>
+  </data>
+  <data name="&gt;&gt;LabelItemNumCds.Name" xml:space="preserve">
+    <value>LabelItemNumCds</value>
+  </data>
+  <data name="&gt;&gt;LabelItemNumCds.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;LabelItemNumCds.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;ButtonCancel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;LabelItemNumCds.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
-  <data name="LabelItemMediaId.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+  <data name="PictureBoxQrCode.Location" type="System.Drawing.Point, System.Drawing">
+    <value>338, 12</value>
   </data>
-  <data name="&gt;&gt;TextBoxItemVolume.Parent" xml:space="preserve">
+  <data name="PictureBoxQrCode.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 100</value>
+  </data>
+  <data name="PictureBoxQrCode.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;PictureBoxQrCode.Name" xml:space="preserve">
+    <value>PictureBoxQrCode</value>
+  </data>
+  <data name="&gt;&gt;PictureBoxQrCode.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PictureBoxQrCode.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;PictureBoxQrCode.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="LabelItemComments.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LabelItemComments.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 147</value>
+  </data>
+  <data name="LabelItemComments.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 13</value>
+  </data>
+  <data name="LabelItemComments.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="LabelItemComments.Text" xml:space="preserve">
+    <value>Comments: </value>
+  </data>
+  <data name="&gt;&gt;LabelItemComments.Name" xml:space="preserve">
+    <value>LabelItemComments</value>
+  </data>
+  <data name="&gt;&gt;LabelItemComments.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelItemComments.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;LabelItemComments.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
+  <data name="TextBoxItemComments.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 144</value>
+  </data>
+  <data name="TextBoxItemComments.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="TextBoxItemComments.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Both</value>
+  </data>
+  <data name="TextBoxItemComments.Size" type="System.Drawing.Size, System.Drawing">
+    <value>357, 257</value>
+  </data>
+  <data name="TextBoxItemComments.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="TextBoxItemComments.WordWrap" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemComments.Name" xml:space="preserve">
+    <value>TextBoxItemComments</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemComments.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemComments.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemComments.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="LabelItemArtist.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LabelItemArtist.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 67</value>
+  </data>
+  <data name="LabelItemArtist.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 13</value>
+  </data>
+  <data name="LabelItemArtist.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="LabelItemArtist.Text" xml:space="preserve">
+    <value>Artist: </value>
+  </data>
+  <data name="&gt;&gt;LabelItemArtist.Name" xml:space="preserve">
+    <value>LabelItemArtist</value>
+  </data>
+  <data name="&gt;&gt;LabelItemArtist.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelItemArtist.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelItemArtist.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="TextBoxItemName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 12</value>
+  </data>
+  <data name="TextBoxItemName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>251, 20</value>
+  </data>
+  <data name="TextBoxItemName.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemName.Name" xml:space="preserve">
+    <value>TextBoxItemName</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemName.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemName.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="TextBoxItemNumCds.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 118</value>
+  </data>
+  <data name="TextBoxItemNumCds.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 20</value>
+  </data>
+  <data name="TextBoxItemNumCds.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemNumCds.Name" xml:space="preserve">
+    <value>TextBoxItemNumCds</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemNumCds.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemNumCds.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemNumCds.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="LabelItemVolume.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LabelItemVolume.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 41</value>
+  </data>
   <data name="LabelItemVolume.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 13</value>
   </data>
-  <data name="LabelItemMediaId.Text" xml:space="preserve">
-    <value>ID: </value>
+  <data name="LabelItemVolume.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
   </data>
-  <data name="LabelItemNumCds.AutoSize" type="System.Boolean, mscorlib">
+  <data name="LabelItemVolume.Text" xml:space="preserve">
+    <value>Volume: </value>
+  </data>
+  <data name="&gt;&gt;LabelItemVolume.Name" xml:space="preserve">
+    <value>LabelItemVolume</value>
+  </data>
+  <data name="&gt;&gt;LabelItemVolume.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelItemVolume.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelItemVolume.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="LabelItemName.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="LabelItemLocation.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 93</value>
+  <data name="LabelItemName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 15</value>
+  </data>
+  <data name="LabelItemName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 13</value>
+  </data>
+  <data name="LabelItemName.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="LabelItemName.Text" xml:space="preserve">
+    <value>Name: </value>
+  </data>
+  <data name="&gt;&gt;LabelItemName.Name" xml:space="preserve">
+    <value>LabelItemName</value>
+  </data>
+  <data name="&gt;&gt;LabelItemName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelItemName.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelItemName.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="TextBoxItemArtist.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 64</value>
+  </data>
+  <data name="TextBoxItemArtist.Size" type="System.Drawing.Size, System.Drawing">
+    <value>251, 20</value>
+  </data>
+  <data name="TextBoxItemArtist.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemArtist.Name" xml:space="preserve">
+    <value>TextBoxItemArtist</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemArtist.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemArtist.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemArtist.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="TextBoxItemVolumeName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>160, 38</value>
+  </data>
+  <data name="TextBoxItemVolumeName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 20</value>
+  </data>
+  <data name="TextBoxItemVolumeName.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemVolumeName.Name" xml:space="preserve">
+    <value>TextBoxItemVolumeName</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemVolumeName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;TextBoxItemVolumeName.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemVolumeName.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="TextBoxItemVolume.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 38</value>
+  </data>
+  <data name="TextBoxItemVolume.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 20</value>
+  </data>
+  <data name="TextBoxItemVolume.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemVolume.Name" xml:space="preserve">
+    <value>TextBoxItemVolume</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemVolume.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemVolume.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;TextBoxItemVolume.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="&gt;&gt;TextBoxItemVolume.Name" xml:space="preserve">
-    <value>TextBoxItemVolume</value>
-  </data>
-  <data name="&gt;&gt;LabelItemVolume.Name" xml:space="preserve">
-    <value>LabelItemVolume</value>
-  </data>
-  <data name="ButtonSaveAndExit.Text" xml:space="preserve">
-    <value>Save &amp;&amp; Exit</value>
-  </data>
-  <data name="&gt;&gt;LabelItemArtist.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;LabelItemLocation.Name" xml:space="preserve">
-    <value>LabelItemLocation</value>
-  </data>
-  <data name="ButtonCancel.Text" xml:space="preserve">
-    <value>Cancel</value>
+  <data name="LabelItemMediaId.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="LabelItemMediaId.Location" type="System.Drawing.Point, System.Drawing">
     <value>335, 121</value>
   </data>
-  <data name="LabelItemName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 15</value>
+  <data name="LabelItemMediaId.Size" type="System.Drawing.Size, System.Drawing">
+    <value>24, 13</value>
   </data>
-  <data name="LabelItemMediaId.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="LabelItemMediaId.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="LabelItemMediaId.Text" xml:space="preserve">
+    <value>ID: </value>
+  </data>
+  <data name="&gt;&gt;LabelItemMediaId.Name" xml:space="preserve">
+    <value>LabelItemMediaId</value>
+  </data>
+  <data name="&gt;&gt;LabelItemMediaId.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LabelItemMediaId.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LabelItemMediaId.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="TextBoxItemMediaId.Location" type="System.Drawing.Point, System.Drawing">
+    <value>365, 118</value>
+  </data>
+  <data name="TextBoxItemMediaId.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 20</value>
+  </data>
+  <data name="TextBoxItemMediaId.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemMediaId.Name" xml:space="preserve">
+    <value>TextBoxItemMediaId</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemMediaId.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemMediaId.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TextBoxItemMediaId.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="ButtonSaveAndExit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 407</value>
+  </data>
+  <data name="ButtonSaveAndExit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>357, 43</value>
+  </data>
+  <data name="ButtonSaveAndExit.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="ButtonSaveAndExit.Text" xml:space="preserve">
+    <value>Save &amp;&amp; Exit</value>
+  </data>
+  <data name="&gt;&gt;ButtonSaveAndExit.Name" xml:space="preserve">
+    <value>ButtonSaveAndExit</value>
+  </data>
+  <data name="&gt;&gt;ButtonSaveAndExit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;ButtonSaveAndExit.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
+  <data name="&gt;&gt;ButtonSaveAndExit.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="ButtonCancel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 407</value>
+  </data>
+  <data name="ButtonCancel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 43</value>
+  </data>
   <data name="ButtonCancel.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
   </data>
-  <data name="&gt;&gt;LabelItemComments.Name" xml:space="preserve">
-    <value>LabelItemComments</value>
+  <data name="ButtonCancel.Text" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="&gt;&gt;ButtonCancel.Name" xml:space="preserve">
+    <value>ButtonCancel</value>
+  </data>
+  <data name="&gt;&gt;ButtonCancel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonCancel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonCancel.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>451, 462</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>FormEditItem</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FormEditItem</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>

@@ -61,25 +61,40 @@ Partial Class FormPrint
         '
         'ListBoxItems
         '
-        Me.ListBoxItems.FormattingEnabled = True
+        Me.ListBoxItems.AccessibleDescription = Nothing
+        Me.ListBoxItems.AccessibleName = Nothing
         resources.ApplyResources(Me.ListBoxItems, "ListBoxItems")
+        Me.ListBoxItems.BackgroundImage = Nothing
+        Me.ListBoxItems.Font = Nothing
+        Me.ListBoxItems.FormattingEnabled = True
         Me.ListBoxItems.Name = "ListBoxItems"
         '
         'LabelConfirmation
         '
+        Me.LabelConfirmation.AccessibleDescription = Nothing
+        Me.LabelConfirmation.AccessibleName = Nothing
         resources.ApplyResources(Me.LabelConfirmation, "LabelConfirmation")
+        Me.LabelConfirmation.Font = Nothing
         Me.LabelConfirmation.Name = "LabelConfirmation"
         '
         'GroupBoxItemsToPrint
         '
+        Me.GroupBoxItemsToPrint.AccessibleDescription = Nothing
+        Me.GroupBoxItemsToPrint.AccessibleName = Nothing
+        resources.ApplyResources(Me.GroupBoxItemsToPrint, "GroupBoxItemsToPrint")
+        Me.GroupBoxItemsToPrint.BackgroundImage = Nothing
         Me.GroupBoxItemsToPrint.Controls.Add(Me.ListBoxItems)
         Me.GroupBoxItemsToPrint.Controls.Add(Me.LabelConfirmation)
-        resources.ApplyResources(Me.GroupBoxItemsToPrint, "GroupBoxItemsToPrint")
+        Me.GroupBoxItemsToPrint.Font = Nothing
         Me.GroupBoxItemsToPrint.Name = "GroupBoxItemsToPrint"
         Me.GroupBoxItemsToPrint.TabStop = False
         '
         'GroupBoxItemInfo
         '
+        Me.GroupBoxItemInfo.AccessibleDescription = Nothing
+        Me.GroupBoxItemInfo.AccessibleName = Nothing
+        resources.ApplyResources(Me.GroupBoxItemInfo, "GroupBoxItemInfo")
+        Me.GroupBoxItemInfo.BackgroundImage = Nothing
         Me.GroupBoxItemInfo.Controls.Add(Me.LabelItemLocation)
         Me.GroupBoxItemInfo.Controls.Add(Me.TextBoxItemLocation)
         Me.GroupBoxItemInfo.Controls.Add(Me.LabelItemNumCds)
@@ -96,109 +111,175 @@ Partial Class FormPrint
         Me.GroupBoxItemInfo.Controls.Add(Me.TextBoxItemVolume)
         Me.GroupBoxItemInfo.Controls.Add(Me.LabelItemMediaId)
         Me.GroupBoxItemInfo.Controls.Add(Me.TextBoxItemMediaId)
-        resources.ApplyResources(Me.GroupBoxItemInfo, "GroupBoxItemInfo")
+        Me.GroupBoxItemInfo.Font = Nothing
         Me.GroupBoxItemInfo.Name = "GroupBoxItemInfo"
         Me.GroupBoxItemInfo.TabStop = False
         '
         'LabelItemLocation
         '
+        Me.LabelItemLocation.AccessibleDescription = Nothing
+        Me.LabelItemLocation.AccessibleName = Nothing
         resources.ApplyResources(Me.LabelItemLocation, "LabelItemLocation")
+        Me.LabelItemLocation.Font = Nothing
         Me.LabelItemLocation.Name = "LabelItemLocation"
         '
         'TextBoxItemLocation
         '
+        Me.TextBoxItemLocation.AccessibleDescription = Nothing
+        Me.TextBoxItemLocation.AccessibleName = Nothing
         resources.ApplyResources(Me.TextBoxItemLocation, "TextBoxItemLocation")
+        Me.TextBoxItemLocation.BackgroundImage = Nothing
+        Me.TextBoxItemLocation.Font = Nothing
         Me.TextBoxItemLocation.Name = "TextBoxItemLocation"
         Me.TextBoxItemLocation.ReadOnly = True
         '
         'LabelItemNumCds
         '
+        Me.LabelItemNumCds.AccessibleDescription = Nothing
+        Me.LabelItemNumCds.AccessibleName = Nothing
         resources.ApplyResources(Me.LabelItemNumCds, "LabelItemNumCds")
+        Me.LabelItemNumCds.Font = Nothing
         Me.LabelItemNumCds.Name = "LabelItemNumCds"
         '
         'PictureBoxQrCode
         '
+        Me.PictureBoxQrCode.AccessibleDescription = Nothing
+        Me.PictureBoxQrCode.AccessibleName = Nothing
         resources.ApplyResources(Me.PictureBoxQrCode, "PictureBoxQrCode")
+        Me.PictureBoxQrCode.BackgroundImage = Nothing
+        Me.PictureBoxQrCode.Font = Nothing
+        Me.PictureBoxQrCode.ImageLocation = Nothing
         Me.PictureBoxQrCode.Name = "PictureBoxQrCode"
         Me.PictureBoxQrCode.TabStop = False
         '
         'LabelItemComments
         '
+        Me.LabelItemComments.AccessibleDescription = Nothing
+        Me.LabelItemComments.AccessibleName = Nothing
         resources.ApplyResources(Me.LabelItemComments, "LabelItemComments")
+        Me.LabelItemComments.Font = Nothing
         Me.LabelItemComments.Name = "LabelItemComments"
         '
         'TextBoxItemComments
         '
+        Me.TextBoxItemComments.AccessibleDescription = Nothing
+        Me.TextBoxItemComments.AccessibleName = Nothing
         resources.ApplyResources(Me.TextBoxItemComments, "TextBoxItemComments")
+        Me.TextBoxItemComments.BackgroundImage = Nothing
+        Me.TextBoxItemComments.Font = Nothing
         Me.TextBoxItemComments.Name = "TextBoxItemComments"
         Me.TextBoxItemComments.ReadOnly = True
         '
         'LabelItemArtist
         '
+        Me.LabelItemArtist.AccessibleDescription = Nothing
+        Me.LabelItemArtist.AccessibleName = Nothing
         resources.ApplyResources(Me.LabelItemArtist, "LabelItemArtist")
+        Me.LabelItemArtist.Font = Nothing
         Me.LabelItemArtist.Name = "LabelItemArtist"
         '
         'TextBoxItemName
         '
+        Me.TextBoxItemName.AccessibleDescription = Nothing
+        Me.TextBoxItemName.AccessibleName = Nothing
         resources.ApplyResources(Me.TextBoxItemName, "TextBoxItemName")
+        Me.TextBoxItemName.BackgroundImage = Nothing
+        Me.TextBoxItemName.Font = Nothing
         Me.TextBoxItemName.Name = "TextBoxItemName"
         Me.TextBoxItemName.ReadOnly = True
         '
         'TextBoxItemNumCds
         '
+        Me.TextBoxItemNumCds.AccessibleDescription = Nothing
+        Me.TextBoxItemNumCds.AccessibleName = Nothing
         resources.ApplyResources(Me.TextBoxItemNumCds, "TextBoxItemNumCds")
+        Me.TextBoxItemNumCds.BackgroundImage = Nothing
+        Me.TextBoxItemNumCds.Font = Nothing
         Me.TextBoxItemNumCds.Name = "TextBoxItemNumCds"
         Me.TextBoxItemNumCds.ReadOnly = True
         '
         'LabelItemVolume
         '
+        Me.LabelItemVolume.AccessibleDescription = Nothing
+        Me.LabelItemVolume.AccessibleName = Nothing
         resources.ApplyResources(Me.LabelItemVolume, "LabelItemVolume")
+        Me.LabelItemVolume.Font = Nothing
         Me.LabelItemVolume.Name = "LabelItemVolume"
         '
         'LabelItemName
         '
+        Me.LabelItemName.AccessibleDescription = Nothing
+        Me.LabelItemName.AccessibleName = Nothing
         resources.ApplyResources(Me.LabelItemName, "LabelItemName")
+        Me.LabelItemName.Font = Nothing
         Me.LabelItemName.Name = "LabelItemName"
         '
         'TextBoxItemArtist
         '
+        Me.TextBoxItemArtist.AccessibleDescription = Nothing
+        Me.TextBoxItemArtist.AccessibleName = Nothing
         resources.ApplyResources(Me.TextBoxItemArtist, "TextBoxItemArtist")
+        Me.TextBoxItemArtist.BackgroundImage = Nothing
+        Me.TextBoxItemArtist.Font = Nothing
         Me.TextBoxItemArtist.Name = "TextBoxItemArtist"
         Me.TextBoxItemArtist.ReadOnly = True
         '
         'TextBoxItemVolumeName
         '
+        Me.TextBoxItemVolumeName.AccessibleDescription = Nothing
+        Me.TextBoxItemVolumeName.AccessibleName = Nothing
         resources.ApplyResources(Me.TextBoxItemVolumeName, "TextBoxItemVolumeName")
+        Me.TextBoxItemVolumeName.BackgroundImage = Nothing
+        Me.TextBoxItemVolumeName.Font = Nothing
         Me.TextBoxItemVolumeName.Name = "TextBoxItemVolumeName"
         Me.TextBoxItemVolumeName.ReadOnly = True
         '
         'TextBoxItemVolume
         '
+        Me.TextBoxItemVolume.AccessibleDescription = Nothing
+        Me.TextBoxItemVolume.AccessibleName = Nothing
         resources.ApplyResources(Me.TextBoxItemVolume, "TextBoxItemVolume")
+        Me.TextBoxItemVolume.BackgroundImage = Nothing
+        Me.TextBoxItemVolume.Font = Nothing
         Me.TextBoxItemVolume.Name = "TextBoxItemVolume"
         Me.TextBoxItemVolume.ReadOnly = True
         '
         'LabelItemMediaId
         '
+        Me.LabelItemMediaId.AccessibleDescription = Nothing
+        Me.LabelItemMediaId.AccessibleName = Nothing
         resources.ApplyResources(Me.LabelItemMediaId, "LabelItemMediaId")
+        Me.LabelItemMediaId.Font = Nothing
         Me.LabelItemMediaId.Name = "LabelItemMediaId"
         '
         'TextBoxItemMediaId
         '
+        Me.TextBoxItemMediaId.AccessibleDescription = Nothing
+        Me.TextBoxItemMediaId.AccessibleName = Nothing
         resources.ApplyResources(Me.TextBoxItemMediaId, "TextBoxItemMediaId")
+        Me.TextBoxItemMediaId.BackgroundImage = Nothing
+        Me.TextBoxItemMediaId.Font = Nothing
         Me.TextBoxItemMediaId.Name = "TextBoxItemMediaId"
         Me.TextBoxItemMediaId.ReadOnly = True
         '
         'ButtonPrint
         '
+        Me.ButtonPrint.AccessibleDescription = Nothing
+        Me.ButtonPrint.AccessibleName = Nothing
         resources.ApplyResources(Me.ButtonPrint, "ButtonPrint")
+        Me.ButtonPrint.BackgroundImage = Nothing
+        Me.ButtonPrint.Font = Nothing
         Me.ButtonPrint.Name = "ButtonPrint"
         Me.ButtonPrint.UseVisualStyleBackColor = True
         '
         'ButtonCancel
         '
-        Me.ButtonCancel.DialogResult = System.Windows.Forms.DialogResult.Cancel
+        Me.ButtonCancel.AccessibleDescription = Nothing
+        Me.ButtonCancel.AccessibleName = Nothing
         resources.ApplyResources(Me.ButtonCancel, "ButtonCancel")
+        Me.ButtonCancel.BackgroundImage = Nothing
+        Me.ButtonCancel.DialogResult = System.Windows.Forms.DialogResult.Cancel
+        Me.ButtonCancel.Font = Nothing
         Me.ButtonCancel.Name = "ButtonCancel"
         Me.ButtonCancel.UseVisualStyleBackColor = True
         '
@@ -208,9 +289,13 @@ Partial Class FormPrint
         '
         'PrintPreviewControlMain
         '
-        Me.PrintPreviewControlMain.AutoZoom = False
-        Me.PrintPreviewControlMain.Document = Me.PrintDocumentMain
+        Me.PrintPreviewControlMain.AccessibleDescription = Nothing
+        Me.PrintPreviewControlMain.AccessibleName = Nothing
         resources.ApplyResources(Me.PrintPreviewControlMain, "PrintPreviewControlMain")
+        Me.PrintPreviewControlMain.AutoZoom = False
+        Me.PrintPreviewControlMain.BackgroundImage = Nothing
+        Me.PrintPreviewControlMain.Document = Me.PrintDocumentMain
+        Me.PrintPreviewControlMain.Font = Nothing
         Me.PrintPreviewControlMain.Name = "PrintPreviewControlMain"
         Me.PrintPreviewControlMain.Zoom = 0.27288280581693758
         '
@@ -224,24 +309,36 @@ Partial Class FormPrint
         '
         'GroupBoxPrintPreview
         '
+        Me.GroupBoxPrintPreview.AccessibleDescription = Nothing
+        Me.GroupBoxPrintPreview.AccessibleName = Nothing
+        resources.ApplyResources(Me.GroupBoxPrintPreview, "GroupBoxPrintPreview")
+        Me.GroupBoxPrintPreview.BackgroundImage = Nothing
         Me.GroupBoxPrintPreview.Controls.Add(Me.ButtonPageSetup)
         Me.GroupBoxPrintPreview.Controls.Add(Me.PrintPreviewControlMain)
         Me.GroupBoxPrintPreview.Controls.Add(Me.ButtonPrint)
         Me.GroupBoxPrintPreview.Controls.Add(Me.ButtonCancel)
         Me.GroupBoxPrintPreview.Controls.Add(Me.TrackBarPrintPreviewZoom)
-        resources.ApplyResources(Me.GroupBoxPrintPreview, "GroupBoxPrintPreview")
+        Me.GroupBoxPrintPreview.Font = Nothing
         Me.GroupBoxPrintPreview.Name = "GroupBoxPrintPreview"
         Me.GroupBoxPrintPreview.TabStop = False
         '
         'ButtonPageSetup
         '
+        Me.ButtonPageSetup.AccessibleDescription = Nothing
+        Me.ButtonPageSetup.AccessibleName = Nothing
         resources.ApplyResources(Me.ButtonPageSetup, "ButtonPageSetup")
+        Me.ButtonPageSetup.BackgroundImage = Nothing
+        Me.ButtonPageSetup.Font = Nothing
         Me.ButtonPageSetup.Name = "ButtonPageSetup"
         Me.ButtonPageSetup.UseVisualStyleBackColor = True
         '
         'TrackBarPrintPreviewZoom
         '
+        Me.TrackBarPrintPreviewZoom.AccessibleDescription = Nothing
+        Me.TrackBarPrintPreviewZoom.AccessibleName = Nothing
         resources.ApplyResources(Me.TrackBarPrintPreviewZoom, "TrackBarPrintPreviewZoom")
+        Me.TrackBarPrintPreviewZoom.BackgroundImage = Nothing
+        Me.TrackBarPrintPreviewZoom.Font = Nothing
         Me.TrackBarPrintPreviewZoom.Maximum = 100
         Me.TrackBarPrintPreviewZoom.Minimum = 1
         Me.TrackBarPrintPreviewZoom.Name = "TrackBarPrintPreviewZoom"
@@ -250,16 +347,22 @@ Partial Class FormPrint
         'FormPrint
         '
         Me.AcceptButton = Me.ButtonPrint
+        Me.AccessibleDescription = Nothing
+        Me.AccessibleName = Nothing
         resources.ApplyResources(Me, "$this")
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackgroundImage = Nothing
         Me.CancelButton = Me.ButtonCancel
         Me.Controls.Add(Me.GroupBoxPrintPreview)
         Me.Controls.Add(Me.GroupBoxItemInfo)
         Me.Controls.Add(Me.GroupBoxItemsToPrint)
+        Me.Font = Nothing
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
+        Me.Icon = Nothing
         Me.MaximizeBox = False
         Me.MinimizeBox = False
         Me.Name = "FormPrint"
+        Me.ShowIcon = False
         Me.GroupBoxItemsToPrint.ResumeLayout(False)
         Me.GroupBoxItemsToPrint.PerformLayout()
         Me.GroupBoxItemInfo.ResumeLayout(False)

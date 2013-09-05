@@ -49,176 +49,115 @@ Partial Class FormPreferences
         '
         'TabControlMain
         '
-        Me.TabControlMain.AccessibleDescription = Nothing
-        Me.TabControlMain.AccessibleName = Nothing
-        resources.ApplyResources(Me.TabControlMain, "TabControlMain")
-        Me.TabControlMain.BackgroundImage = Nothing
         Me.TabControlMain.Controls.Add(Me.TabPageGeneral)
         Me.TabControlMain.Controls.Add(Me.TabPageDisplay)
-        Me.TabControlMain.Font = Nothing
+        resources.ApplyResources(Me.TabControlMain, "TabControlMain")
         Me.TabControlMain.Name = "TabControlMain"
         Me.TabControlMain.SelectedIndex = 0
         '
         'TabPageGeneral
         '
-        Me.TabPageGeneral.AccessibleDescription = Nothing
-        Me.TabPageGeneral.AccessibleName = Nothing
-        resources.ApplyResources(Me.TabPageGeneral, "TabPageGeneral")
-        Me.TabPageGeneral.BackgroundImage = Nothing
         Me.TabPageGeneral.Controls.Add(Me.GroupBoxWarnings)
         Me.TabPageGeneral.Controls.Add(Me.GroupBoxMediaDatabase)
         Me.TabPageGeneral.Controls.Add(Me.GroupBoxLanguage)
-        Me.TabPageGeneral.Font = Nothing
+        resources.ApplyResources(Me.TabPageGeneral, "TabPageGeneral")
         Me.TabPageGeneral.Name = "TabPageGeneral"
         Me.TabPageGeneral.UseVisualStyleBackColor = True
         '
         'GroupBoxWarnings
         '
-        Me.GroupBoxWarnings.AccessibleDescription = Nothing
-        Me.GroupBoxWarnings.AccessibleName = Nothing
-        resources.ApplyResources(Me.GroupBoxWarnings, "GroupBoxWarnings")
-        Me.GroupBoxWarnings.BackgroundImage = Nothing
         Me.GroupBoxWarnings.Controls.Add(Me.CheckBoxShowExitConfirmation)
-        Me.GroupBoxWarnings.Font = Nothing
+        resources.ApplyResources(Me.GroupBoxWarnings, "GroupBoxWarnings")
         Me.GroupBoxWarnings.Name = "GroupBoxWarnings"
         Me.GroupBoxWarnings.TabStop = False
         '
         'CheckBoxShowExitConfirmation
         '
-        Me.CheckBoxShowExitConfirmation.AccessibleDescription = Nothing
-        Me.CheckBoxShowExitConfirmation.AccessibleName = Nothing
         resources.ApplyResources(Me.CheckBoxShowExitConfirmation, "CheckBoxShowExitConfirmation")
-        Me.CheckBoxShowExitConfirmation.BackgroundImage = Nothing
-        Me.CheckBoxShowExitConfirmation.Font = Nothing
         Me.CheckBoxShowExitConfirmation.Name = "CheckBoxShowExitConfirmation"
         Me.CheckBoxShowExitConfirmation.UseVisualStyleBackColor = True
         '
         'GroupBoxMediaDatabase
         '
-        Me.GroupBoxMediaDatabase.AccessibleDescription = Nothing
-        Me.GroupBoxMediaDatabase.AccessibleName = Nothing
-        resources.ApplyResources(Me.GroupBoxMediaDatabase, "GroupBoxMediaDatabase")
-        Me.GroupBoxMediaDatabase.BackgroundImage = Nothing
         Me.GroupBoxMediaDatabase.Controls.Add(Me.ButtonMediaDatabaseFileNameBrowse)
         Me.GroupBoxMediaDatabase.Controls.Add(Me.LabelMediaDatabaseFileName)
         Me.GroupBoxMediaDatabase.Controls.Add(Me.TextBoxMediaDatabaseFileName)
-        Me.GroupBoxMediaDatabase.Font = Nothing
+        resources.ApplyResources(Me.GroupBoxMediaDatabase, "GroupBoxMediaDatabase")
         Me.GroupBoxMediaDatabase.Name = "GroupBoxMediaDatabase"
         Me.GroupBoxMediaDatabase.TabStop = False
         '
         'ButtonMediaDatabaseFileNameBrowse
         '
-        Me.ButtonMediaDatabaseFileNameBrowse.AccessibleDescription = Nothing
-        Me.ButtonMediaDatabaseFileNameBrowse.AccessibleName = Nothing
         resources.ApplyResources(Me.ButtonMediaDatabaseFileNameBrowse, "ButtonMediaDatabaseFileNameBrowse")
-        Me.ButtonMediaDatabaseFileNameBrowse.BackgroundImage = Nothing
-        Me.ButtonMediaDatabaseFileNameBrowse.Font = Nothing
         Me.ButtonMediaDatabaseFileNameBrowse.Name = "ButtonMediaDatabaseFileNameBrowse"
         Me.ButtonMediaDatabaseFileNameBrowse.UseVisualStyleBackColor = True
         '
         'LabelMediaDatabaseFileName
         '
-        Me.LabelMediaDatabaseFileName.AccessibleDescription = Nothing
-        Me.LabelMediaDatabaseFileName.AccessibleName = Nothing
         resources.ApplyResources(Me.LabelMediaDatabaseFileName, "LabelMediaDatabaseFileName")
-        Me.LabelMediaDatabaseFileName.Font = Nothing
         Me.LabelMediaDatabaseFileName.Name = "LabelMediaDatabaseFileName"
         '
         'TextBoxMediaDatabaseFileName
         '
-        Me.TextBoxMediaDatabaseFileName.AccessibleDescription = Nothing
-        Me.TextBoxMediaDatabaseFileName.AccessibleName = Nothing
         resources.ApplyResources(Me.TextBoxMediaDatabaseFileName, "TextBoxMediaDatabaseFileName")
-        Me.TextBoxMediaDatabaseFileName.BackgroundImage = Nothing
-        Me.TextBoxMediaDatabaseFileName.Font = Nothing
         Me.TextBoxMediaDatabaseFileName.Name = "TextBoxMediaDatabaseFileName"
         '
         'GroupBoxLanguage
         '
-        Me.GroupBoxLanguage.AccessibleDescription = Nothing
-        Me.GroupBoxLanguage.AccessibleName = Nothing
-        resources.ApplyResources(Me.GroupBoxLanguage, "GroupBoxLanguage")
-        Me.GroupBoxLanguage.BackgroundImage = Nothing
         Me.GroupBoxLanguage.Controls.Add(Me.ComboBoxLanguage)
         Me.GroupBoxLanguage.Controls.Add(Me.LabelLanguage)
-        Me.GroupBoxLanguage.Font = Nothing
+        resources.ApplyResources(Me.GroupBoxLanguage, "GroupBoxLanguage")
         Me.GroupBoxLanguage.Name = "GroupBoxLanguage"
         Me.GroupBoxLanguage.TabStop = False
         '
         'ComboBoxLanguage
         '
-        Me.ComboBoxLanguage.AccessibleDescription = Nothing
-        Me.ComboBoxLanguage.AccessibleName = Nothing
-        resources.ApplyResources(Me.ComboBoxLanguage, "ComboBoxLanguage")
-        Me.ComboBoxLanguage.BackgroundImage = Nothing
         Me.ComboBoxLanguage.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.ComboBoxLanguage.Font = Nothing
         Me.ComboBoxLanguage.FormattingEnabled = True
+        resources.ApplyResources(Me.ComboBoxLanguage, "ComboBoxLanguage")
         Me.ComboBoxLanguage.Name = "ComboBoxLanguage"
         '
         'LabelLanguage
         '
-        Me.LabelLanguage.AccessibleDescription = Nothing
-        Me.LabelLanguage.AccessibleName = Nothing
         resources.ApplyResources(Me.LabelLanguage, "LabelLanguage")
-        Me.LabelLanguage.Font = Nothing
         Me.LabelLanguage.Name = "LabelLanguage"
         '
         'TabPageDisplay
         '
-        Me.TabPageDisplay.AccessibleDescription = Nothing
-        Me.TabPageDisplay.AccessibleName = Nothing
-        resources.ApplyResources(Me.TabPageDisplay, "TabPageDisplay")
-        Me.TabPageDisplay.BackgroundImage = Nothing
         Me.TabPageDisplay.Controls.Add(Me.GroupBoxMainWindow)
-        Me.TabPageDisplay.Font = Nothing
+        resources.ApplyResources(Me.TabPageDisplay, "TabPageDisplay")
         Me.TabPageDisplay.Name = "TabPageDisplay"
         Me.TabPageDisplay.UseVisualStyleBackColor = True
         '
         'GroupBoxMainWindow
         '
-        Me.GroupBoxMainWindow.AccessibleDescription = Nothing
-        Me.GroupBoxMainWindow.AccessibleName = Nothing
-        resources.ApplyResources(Me.GroupBoxMainWindow, "GroupBoxMainWindow")
-        Me.GroupBoxMainWindow.BackgroundImage = Nothing
         Me.GroupBoxMainWindow.Controls.Add(Me.CheckBoxRestoreMainWindow)
-        Me.GroupBoxMainWindow.Font = Nothing
+        resources.ApplyResources(Me.GroupBoxMainWindow, "GroupBoxMainWindow")
         Me.GroupBoxMainWindow.Name = "GroupBoxMainWindow"
         Me.GroupBoxMainWindow.TabStop = False
         '
         'CheckBoxRestoreMainWindow
         '
-        Me.CheckBoxRestoreMainWindow.AccessibleDescription = Nothing
-        Me.CheckBoxRestoreMainWindow.AccessibleName = Nothing
         resources.ApplyResources(Me.CheckBoxRestoreMainWindow, "CheckBoxRestoreMainWindow")
-        Me.CheckBoxRestoreMainWindow.BackgroundImage = Nothing
-        Me.CheckBoxRestoreMainWindow.Font = Nothing
         Me.CheckBoxRestoreMainWindow.Name = "CheckBoxRestoreMainWindow"
         Me.CheckBoxRestoreMainWindow.UseVisualStyleBackColor = True
         '
         'ButtonSave
         '
-        Me.ButtonSave.AccessibleDescription = Nothing
-        Me.ButtonSave.AccessibleName = Nothing
         resources.ApplyResources(Me.ButtonSave, "ButtonSave")
-        Me.ButtonSave.BackgroundImage = Nothing
-        Me.ButtonSave.Font = Nothing
         Me.ButtonSave.Name = "ButtonSave"
         Me.ButtonSave.UseVisualStyleBackColor = True
         '
         'FormPreferences
         '
         Me.AcceptButton = Me.ButtonSave
-        Me.AccessibleDescription = Nothing
-        Me.AccessibleName = Nothing
         resources.ApplyResources(Me, "$this")
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackgroundImage = Nothing
         Me.Controls.Add(Me.TabControlMain)
         Me.Controls.Add(Me.ButtonSave)
-        Me.Font = Nothing
-        Me.Icon = Nothing
         Me.Name = "FormPreferences"
+        Me.ShowIcon = False
+        Me.ShowInTaskbar = False
         Me.TabControlMain.ResumeLayout(False)
         Me.TabPageGeneral.ResumeLayout(False)
         Me.GroupBoxWarnings.ResumeLayout(False)
