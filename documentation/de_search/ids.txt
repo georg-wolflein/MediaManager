@@ -1,0 +1,36 @@
+1
+ MediaM... Advanced License is required!
+ mediamanager.html
+2
+ Main ... Advanced License is required!
+ main_window.html
+3
+ Main... Advanced License is required!
+ main_menu.html
+4
+ File men... Advanced License is required!
+ file_menu_control.html
+5
+ Edit men... Advanced License is required!
+ edit_menu_control.html
+6
+ View men... Advanced License is required!
+ view_menu_control.html
+7
+ Help men... Advanced License is required!
+ help_menu_control.html
+8
+ Find c... Advanced License is required!
+ find_control.html
+9
+ Edit ite... Advanced License is required!
+ edit_item_window.html
+10
+ Preferenc... Advanced License is required!
+ preferences_window.html
+11
+ Raw datab... Advanced License is required!
+ raw_database_window.html
+12
+ Print ... Advanced License is required!
+ print_window.html

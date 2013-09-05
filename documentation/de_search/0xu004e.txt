@@ -1,0 +1,5 @@
+NAME; 9,2;
+NOT; 10,9;
+NOTE; 5;
+NOTHING; 12;
+NUMBER; 9,2;

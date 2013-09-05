@@ -1,0 +1,7 @@
+HAS; 9;
+HAVE; 5,2;
+HELP; 7,3;
+HERE; 9,10,12,5,4;
+HIDE; 8,6;
+HOLD; 2;
+HOW; 10;

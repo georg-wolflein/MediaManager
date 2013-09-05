@@ -1,0 +1,3 @@
+GEORG; 1;
+GERMAN; 10;
+GITHUB; 1;
