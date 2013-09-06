@@ -1,6 +1,7 @@
 [MediaManager](http://georgw777.github.io/MediaManager/)
 ============
-Click [here](http://georgw777.github.io/MediaManager/documentation/mediamanager.html) for the documentation. Jump to [installation instructions](#installing). 
+* [Documentation](http://georgw777.github.io/MediaManager/documentation/mediamanager.html)
+* [Installation instructions](#installing)
 
 
 ## About
