@@ -1,9 +1,8 @@
 [MediaManager](http://georgw777.github.io/MediaManager/)
 ============
-
-CD organization made easy. 
-
-Click [here](#installing) for installation instructions. 
+* [Documentation](http://georgw777.github.io/MediaManager/documentation/mediamanager.html)
+* [Installation instructions](#installing)
+* [To-do list](https://github.com/georgw777/MediaManager/issues/2)
 
 
 ## About
@@ -40,11 +39,8 @@ If you are encountering problems during the installation, it's probably because 
 Another problem might be that you cannot start the application. If this is the case, make sure that the DLL [Main.dll](Main.dll) is located in the same directory as GamingBot.exe. 
 
 
-## To-Do List
-- Add a "create default/sample media database function"
-- Create an updater (as an external executable)
-- Save settings without having to restart manually
-- Add a restart feature
+## [To-Do List](https://github.com/georgw777/MediaManager/issues/2)
+Want to propose a new feature? Just leave a comment at the [to-do list](https://github.com/georgw777/MediaManager/issues/2). Here you can also see features coming soon. 
 
 
 ## Libraries
