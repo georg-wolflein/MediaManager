@@ -51,7 +51,7 @@ The following libraries were used in this project:
 
 
 ## Licence
-This project is licensed under the [MIT License](http://opensource.org/licenses/MIT). See [LICENSE.md](LICENSE.md) for more information. 
+This project is licensed under the [MIT License](http://opensource.org/licenses/MIT). See [LICENSE](LICENSE) for more information. 
 ```
 Copyright (c) 2013 by Georg Wölflein
 
