@@ -2,7 +2,7 @@
 ============
 * [Documentation](http://georgw777.github.io/MediaManager/documentation/mediamanager.html)
 * [Installation instructions](#installing)
-* [To-do list](https://github.com/georgw777/MediaManager/issues/2)
+* [To-do list](#to-do-list)
 
 
 ## About
